@@ -41,13 +41,3 @@ As Views são a interface com o usuário, onde a saída do aplicativo é represe
   - DBeaver: Representa a ferramenta de gerenciamento de banco de dados.
 
 A comunicação entre os elementos é indicada pelas setas que mostram como o usuário interage com as Views, que por sua vez são controladas pelos Controllers, e estes manipulam os Models que se comunicam com o banco de dados.
-
-### Justifique as escolhas feitas e como elas impactam o projeto.
-#### Implicações da Arquitetura:
-Descreva as implicações da arquitetura em termos de escalabilidade, manutenção, testabilidade e outros aspectos importantes.
-
-### Recursos Adicionais:
-- Documentação do Sails.js: https://github.com/balderdashy/sails
-- Tutorial do draw.io: https://m.youtube.com/watch?v=w3zm-wbmlpc
-- Exemplos de diagramas MVC: https://www.lucidchart.com/pages/templates
-
